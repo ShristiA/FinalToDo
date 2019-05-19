@@ -7,7 +7,7 @@ let toDo2 = getSavedTodos();
 // }
 
 const filters = {
-    searchText: ' ',
+    searchText: '',
     hideCompleted: false
 }
 
